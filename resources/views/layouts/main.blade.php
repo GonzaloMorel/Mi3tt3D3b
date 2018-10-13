@@ -20,11 +20,15 @@
 		<link href="{{  asset('assets/plugins/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
 
 		<!-- REVOLUTION SLIDER -->
-		<link href="assets/plugins/slider.revolution/css/extralayers.css" rel="stylesheet" type="text/css" />
-		<link href="assets/plugins/slider.revolution/css/settings.css" rel="stylesheet" type="text/css" />
+		<link href="{{ asset('assets/plugins/slider.revolution/css/extralayers.css') }}" rel="stylesheet" type="text/css" />
+		<link href="{{ asset('assets/plugins/slider.revolution/css/settings.css' )}}" rel="stylesheet" type="text/css" />
 
 		<!-- SWIPER SLIDER -->
 		<link href="{{  asset('assets/plugins/slider.swiper/dist/css/swiper.min.css') }}" rel="stylesheet" type="text/css" />
+
+		<!-- LAYER SLIDER -->
+		<link href="{{ asset('assets/plugins/slider.layerslider/css/layerslider.css') }}" rel="stylesheet" type="text/css" />
+
 
 		<!-- THEME CSS -->
 		<link href="{{ asset('assets/css/essentials.css') }}" rel="stylesheet" type="text/css" />
@@ -40,7 +44,7 @@
 
 	<!--
 		AVAILABLE BODY CLASSES:
-		
+
 		smoothscroll 			= create a browser smooth scroll
 		enable-animation		= enable WOW animations
 
@@ -51,33 +55,33 @@
 		grain-blue				= blue grain background
 		grain-orange			= orange grain background
 		grain-yellow			= yellow grain background
-		
+
 		boxed 					= boxed layout
 		pattern1 ... patern11	= pattern background
 		menu-vertical-hide		= hidden, open on click
-		
+
 		BACKGROUND IMAGE <div together=".boxed" with="" class=""></div>
 		data-background="assets/images/boxed_background/1.jpg"
 	-->
 	<body class="smoothscroll enable-animation">
 
 		<!-- Slidetop -->
-		
+
 
 		<!-- wrapper -->
 		<div id="wrapper">
-		
+
 			@yield('header')
 
 			@yield('sliderHead')
-			
+
 			<br/><br/>
 			<div id="promociones"></div>
 			<br/><br/>
 
 			@yield('titulo_promociones')
 			<br/><br/>
-			@yield('revolution_slider')
+			@yield('promociones')
 
 			<br/><br/>
 			<div id="productos"></div>
@@ -85,8 +89,8 @@
 
 			@yield('titulo_produtos')
 			<br/><br/>
-			@yield('portafolio')
-			
+			@yield('productos2')
+
 			<br/><br/>
 			@yield('contacto_mayorista')
 
@@ -110,15 +114,22 @@
 		<script type="text/javascript" src="assets/plugins/slider.revolution/js/jquery.themepunch.revolution.min.js"></script>
 		<script type="text/javascript" src="assets/js/view/demo.revolution_slider.js"></script>
 
+		<!-- LAYER SLIDER -->
+		<script type="text/javascript" src="{{ asset('assets/plugins/slider.layerslider/js/layerslider_pack.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('assets/js/view/demo.layerslider_slider.js') }}"></script>
+
+		<!-- SWIPER SLIDER -->
+		<!--<script type="text/javascript" src="{{  asset('assets/plugins/slider.swiper/dist/js/swiper.min.js')}}"></script>
+		<script type="text/javascript" src="{{  asset('assets/js/view/demo.swiper_slider.js')}}"></script>-->
+
 		<!-- SCRIPTS -->
 		<script type="text/javascript" src="{{  asset('assets/js/scripts.js')}}"></script>
-		
+
 		<!-- STYLESWITCHER - REMOVE -->
 		<!--<script async type="text/javascript" src="{{  asset('assets/plugins/styleswitcher/styleswitcher.js')}}"></script>-->
 
-		<!-- SWIPER SLIDER -->
-		<script type="text/javascript" src="{{  asset('assets/plugins/slider.swiper/dist/js/swiper.min.js')}}"></script>
-		<script type="text/javascript" src="{{  asset('assets/js/view/demo.swiper_slider.js')}}"></script>
-		
+
+
+
 	</body>
 </html>

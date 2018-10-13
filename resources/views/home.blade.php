@@ -7,7 +7,7 @@
 		<div id="slidetop">
 
 			<div class="container">
-				
+
 				<div class="row">
 
 					<div class="col-md-4">
@@ -47,7 +47,7 @@
 
 
 @section('header')
-			<!-- 
+			<!--
 				AVAILABLE HEADER CLASSES
 
 				Default nav height: 96px
@@ -61,7 +61,7 @@
 				.static			= static header
 				.dark			= dark header
 				.bottom			= header on bottom
-				
+
 				shadow-before-1 = shadow 1 header top
 				shadow-after-1 	= shadow 1 header bottom
 				shadow-before-2 = shadow 2 header top
@@ -101,11 +101,11 @@
 											</span>
 										</div>
 									</form>
-								</div> 
+								</div>
 							</li>
 							<!-- /SEARCH -->
 
-							
+
 
 						</ul>
 						<!-- /BUTTONS -->
@@ -115,9 +115,9 @@
 							<img src="assets/images/miette/logo_web.png" alt="" />
 						</a>
 
-						<!-- 
-							Top Nav 
-							
+						<!--
+							Top Nav
+
 							AVAILABLE CLASSES:
 							submenu-dark = dark sub menu
 						-->
@@ -126,9 +126,9 @@
 
 								<!--
 									NOTE
-									
+
 									For a regular link, remove "dropdown" class from LI tag and "dropdown-toggle" class from the href.
-									Direct Link Example: 
+									Direct Link Example:
 
 									<li>
 										<a href="#">HOME</a>
@@ -143,12 +143,12 @@
 									<li class="dropdown"><!-- OFERTAS -->
 										<a href="#promociones">
 											PROMOCIONES
-										</a>										
+										</a>
 									</li>
 									<li class="dropdown"><!-- PRODUCTOS -->
 										<a href="#productos">
 											PRODUCTOS
-										</a>										
+										</a>
 									</li>
 									<li class="dropdown"><!-- CONTACTO -->
 										<a href="#contacto">
@@ -176,7 +176,7 @@
 
 
 @section('sliderHead')
-			<!-- 
+			<!--
 				SLIDER
 
 				Classes:
@@ -186,7 +186,7 @@
 
 				<!--
 					SWIPPER SLIDER PARAMS
-					
+
 					data-effect="slide|fade|coverflow"
 					data-autoplay="2500|false" 						(remove to disable autoplay)
 				-->
@@ -196,7 +196,7 @@
 						<!-- SLIDE 1 -->
 						<div class="swiper-slide" style="background-image: url('{{ asset('assets/images/miette/original/105.jpg') }}');">
 							<div class="overlay dark-5"><!-- dark overlay [1 to 9 opacity] --></div>
-							
+
 							<div class="display-table">
 								<div class="display-table-cell vertical-align-middle">
 									<div class="container">
@@ -210,18 +210,18 @@
 
 											</div>
 										</div>
-							
+
 									</div>
 								</div>
 							</div>
-							
+
 						</div>
 						<!-- /SLIDE 1 -->
 
 						<!-- SLIDE 3 -->
 						<div class="swiper-slide" style="background-image: url('{{ asset('assets/images/miette/original/mc-32.jpg') }}');">
 							<div class="overlay dark-6"><!-- dark overlay [1 to 9 opacity] --></div>
-							
+
 							<div class="display-table">
 								<div class="display-table-cell vertical-align-middle">
 									<div class="container">
@@ -235,11 +235,11 @@
 
 											</div>
 										</div>
-							
+
 									</div>
 								</div>
 							</div>
-							
+
 						</div>
 						<!-- /SLIDE 3 -->
 
@@ -247,7 +247,7 @@
 						<!-- SLIDE 4 -->
 						<div class="swiper-slide" style="background-image: url('{{ asset('assets/images/miette/original/98.jpg') }}');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
-							
+
 							<div class="display-table">
 								<div class="display-table-cell vertical-align-middle">
 									<div class="container">
@@ -261,18 +261,18 @@
 
 											</div>
 										</div>
-							
+
 									</div>
 								</div>
 							</div>
-							
+
 						</div>
 						<!-- /SLIDE 4 -->
 
 						<!-- SLIDE 4 -->
 						<div class="swiper-slide" style="background-image: url('{{ asset('assets/images/miette/original/102.jpg') }}');">
 							<div class="overlay dark-4"><!-- dark overlay [1 to 9 opacity] --></div>
-							
+
 							<div class="display-table">
 								<div class="display-table-cell vertical-align-middle">
 									<div class="container">
@@ -286,11 +286,11 @@
 
 											</div>
 										</div>
-							
+
 									</div>
 								</div>
 							</div>
-							
+
 						</div>
 						<!-- /SLIDE 4 -->
 					</div>
@@ -302,7 +302,7 @@
 					<div class="swiper-button-next"><i class="fa fa-angle-right"></i></div>
 					<div class="swiper-button-prev"><i class="fa fa-angle-left"></i></div>
 				</div>
-					
+
 			</section>
 			<!-- /SLIDER -->
 
@@ -314,15 +314,15 @@
 			<section>
 				<div class="container">
 					<div class="row">
-					
+
 						<div class="col-md-4">
-							
+
 							<div class="heading-title heading-border-bottom heading-color">
 								<h3>Passion</h3>
 							</div>
-							
+
 							<p>Fabulas definitiones ei pri per recteque hendrerit scriptorem in errem scribentur mel fastidii propriae philosophia cu mea. Utinam ipsum everti necessitatibus at fuisset splendide.</p>
-							
+
 							<a href="#">
 								Read
 								<!-- /word rotator -->
@@ -378,7 +378,7 @@
 						</div>
 
 					</div>
-					
+
 				</div>
 			</section>
 			<!-- / -->
@@ -386,9 +386,9 @@
 
 @section('paralax_productos')
 
-	<!-- 
-		PAGE HEADER 
-		
+	<!--
+		PAGE HEADER
+
 		CLASSES:
 			.page-header-xs	= 20px margins
 			.page-header-md	= 50px margins
@@ -476,9 +476,9 @@
 
 @section("titulo_produtos")
 
-	<!-- 
-		PAGE HEADER 
-		
+	<!--
+		PAGE HEADER
+
 		CLASSES:
 			.page-header-xs	= 20px margins
 			.page-header-md	= 50px margins
@@ -508,9 +508,9 @@
 
 @section("titulo_promociones")
 
-	<!-- 
-		PAGE HEADER 
-		
+	<!--
+		PAGE HEADER
+
 		CLASSES:
 			.page-header-xs	= 20px margins
 			.page-header-md	= 50px margins
@@ -544,7 +544,7 @@
 		<div class="container">
 
 			<div class="row">
-				
+
 				<div class="col-md-8">
 
 					<!-- Footer Logo -->
@@ -608,7 +608,7 @@
 							<!-- /Social Icons -->
 
 						</div>
-						
+
 					</div>
 
 
@@ -626,7 +626,7 @@
 
 					<!-- CONTACT FORM -->
 					<form class="validate" method="post" action="php/contact.php">
-						
+
 						<input type="text" value="" placeholder="Nombre*" maxlength="100" class="form-control required" name="contact[name]" />
 						<input type="email" value="" placeholder="Email*" data-msg-email="Por favor Ingresar una dirección de correo válida." class="form-control required" name="contact[email]" />
 						<textarea maxlength="5000" placeholder="Mensaje*" rows="3" class="form-control required" name="contact[message]"></textarea>
@@ -663,19 +663,19 @@
 					<div class="slider fullwidthbanner-container roundedcorners margin-bottom-100">
 						<!--
 							Navigation Styles:
-							
+
 								data-navigationStyle="" theme default navigation
-								
+
 								data-navigationStyle="preview1"
 								data-navigationStyle="preview2"
 								data-navigationStyle="preview3"
 								data-navigationStyle="preview4"
-								
+
 							Bottom Shadows
 								data-shadow="1"
 								data-shadow="2"
 								data-shadow="3"
-								
+
 							Slider Height (do not use on fullscreen mode)
 								data-height="300"
 								data-height="350"
@@ -696,60 +696,60 @@
 								<li data-transition="fade" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
 									<img src="assets/images/1x1.png" data-lazyload="assets/images/miette/productos/blondie_frambuesa.jpg" alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" />
 
-									<div class="tp-caption lft start" 
-										data-x="0" 
-										data-y="0" 
-										data-speed="750" 
-										data-start="750" 
-										data-easing="easeOutExpo" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+									<div class="tp-caption lft start"
+										data-x="0"
+										data-y="0"
+										data-speed="750"
+										data-start="750"
+										data-easing="easeOutExpo"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300">
 											<img src="assets/images/1x1.png" alt="" data-lazyload="assets/images/caption_bg.png">
 									</div>
 
-									<div class="tp-caption medium_light_white lfb start" 
+									<div class="tp-caption medium_light_white lfb start"
 										data-x="left" data-hoffset="70"
-										data-y="96" 
-										data-speed="300" 
-										data-start="1200" 
-										data-easing="easeOutExpo" 
-										data-splitin="none" 
-										data-splitout="none" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+										data-y="96"
+										data-speed="300"
+										data-start="1200"
+										data-easing="easeOutExpo"
+										data-splitin="none"
+										data-splitout="none"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300">
 											Smarty Great<br /> Revolution Captions
 									</div>
 
-									<div class="tp-caption block_black lfl start" 
+									<div class="tp-caption block_black lfl start"
 										data-x="left" data-hoffset="70"
-										data-y="195" 
-										data-speed="300" 
-										data-start="1500" 
-										data-easing="easeOutExpo" 
-										data-splitin="none" 
-										data-splitout="none" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+										data-y="195"
+										data-speed="300"
+										data-start="1500"
+										data-easing="easeOutExpo"
+										data-splitin="none"
+										data-splitout="none"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300" >
 											New Features Always Added
 									</div>
 
-									<div class="tp-caption small_light_white lfl start" 
+									<div class="tp-caption small_light_white lfl start"
 										data-x="left" data-hoffset="70"
-										data-y="250" 
-										data-speed="1000" 
-										data-start="1800" 
-										data-easing="easeOutExpo" 
-										data-splitin="none" 
-										data-splitout="none" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+										data-y="250"
+										data-speed="1000"
+										data-start="1800"
+										data-easing="easeOutExpo"
+										data-splitin="none"
+										data-splitout="none"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300" >
-											Awesome sliders give you the opportunity<br />  
-											to showcase important content. Smarty will<br />  
-											constantly be updated with brand new<br /> 
+											Awesome sliders give you the opportunity<br />
+											to showcase important content. Smarty will<br />
+											constantly be updated with brand new<br />
 											features and additions.
 									</div>
 								</li>
@@ -758,60 +758,60 @@
 								<li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="off" >
 									<img src="assets/images/1x1.png" data-lazyload="assets/images/miette/productos/brownie_nuez.jpg" alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" />
 
-									<div class="tp-caption lft start" 
-										data-x="right" 
-										data-y="0" 
-										data-speed="750" 
-										data-start="750" 
-										data-easing="easeOutExpo" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+									<div class="tp-caption lft start"
+										data-x="right"
+										data-y="0"
+										data-speed="750"
+										data-start="750"
+										data-easing="easeOutExpo"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300">
 											<img src="assets/images/1x1.png" alt="" data-lazyload="assets/images/caption_bg.png">
 									</div>
 
-									<div class="tp-caption medium_light_white lfb start" 
+									<div class="tp-caption medium_light_white lfb start"
 										data-x="left" data-hoffset="810"
-										data-y="96" 
-										data-speed="300" 
-										data-start="1200" 
-										data-easing="easeOutExpo" 
-										data-splitin="none" 
-										data-splitout="none" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+										data-y="96"
+										data-speed="300"
+										data-start="1200"
+										data-easing="easeOutExpo"
+										data-splitin="none"
+										data-splitout="none"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300">
 											Epona Great<br /> Revolution Captions
 									</div>
 
-									<div class="tp-caption block_black lfl start" 
+									<div class="tp-caption block_black lfl start"
 										data-x="left" data-hoffset="810"
-										data-y="195" 
-										data-speed="300" 
-										data-start="1500" 
-										data-easing="easeOutExpo" 
-										data-splitin="none" 
-										data-splitout="none" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+										data-y="195"
+										data-speed="300"
+										data-start="1500"
+										data-easing="easeOutExpo"
+										data-splitin="none"
+										data-splitout="none"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300" >
 											New Features Always Added
 									</div>
 
-									<div class="tp-caption small_light_white lfl start" 
+									<div class="tp-caption small_light_white lfl start"
 										data-x="left" data-hoffset="810"
-										data-y="250" 
-										data-speed="1000" 
-										data-start="1800" 
-										data-easing="easeOutExpo" 
-										data-splitin="none" 
-										data-splitout="none" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+										data-y="250"
+										data-speed="1000"
+										data-start="1800"
+										data-easing="easeOutExpo"
+										data-splitin="none"
+										data-splitout="none"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300" >
-											Awesome sliders give you the opportunity<br />  
-											to showcase important content. Smarty will<br />  
-											constantly be updated with brand new<br /> 
+											Awesome sliders give you the opportunity<br />
+											to showcase important content. Smarty will<br />
+											constantly be updated with brand new<br />
 											features and additions.
 									</div>
 								</li>
@@ -820,44 +820,44 @@
 								<li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="off" >
 									<img src="assets/images/1x1.png" data-lazyload="assets/images/miette/productos/carrot_cake.jpg" alt="" data-bgfit="cover" data-bgposition="center bottom" data-bgrepeat="no-repeat" />
 
-									<div class="tp-caption lft start" 
-										data-x="-86" 
-										data-y="296" 
-										data-speed="750" 
-										data-start="750" 
-										data-easing="easeOutExpo" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+									<div class="tp-caption lft start"
+										data-x="-86"
+										data-y="296"
+										data-speed="750"
+										data-start="750"
+										data-easing="easeOutExpo"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300">
 										<img src="assets/images/1x1.png" alt="" data-lazyload="assets/images/caption_bg.png">
 									</div>
 
-									<div class="tp-caption medium_light_white lfb start" 
-										data-x="34" 
-										data-y="320" 
-										data-speed="300" 
-										data-start="1500" 
-										data-easing="easeOutExpo" 
-										data-splitin="none" 
-										data-splitout="none" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+									<div class="tp-caption medium_light_white lfb start"
+										data-x="34"
+										data-y="320"
+										data-speed="300"
+										data-start="1500"
+										data-easing="easeOutExpo"
+										data-splitin="none"
+										data-splitout="none"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300" >
 											Smarty Responsive<br /> Template
 									</div>
 
-									<div class="tp-caption small_light_white lfb start" 
-										data-x="34" 
-										data-y="400" 
-										data-speed="300" 
-										data-start="1500" 
-										data-easing="easeOutExpo" 
-										data-splitin="none" 
-										data-splitout="none" 
-										data-elementdelay="0.1" 
-										data-endelementdelay="0.1" 
+									<div class="tp-caption small_light_white lfb start"
+										data-x="34"
+										data-y="400"
+										data-speed="300"
+										data-start="1500"
+										data-easing="easeOutExpo"
+										data-splitin="none"
+										data-splitout="none"
+										data-elementdelay="0.1"
+										data-endelementdelay="0.1"
 										data-endspeed="300" >
-											Awesome sliders give you the <br /> 
+											Awesome sliders give you the <br />
 											opportunity to showcase important<br />
 											content.
 									</div>
@@ -899,11 +899,11 @@
 			<!-- CLIENTS -->
 			<section class="padding-xs" id="clientes">
 				<div class="container">
-	
+
 					<header class="text-center margin-bottom-60">
 						<h4>CLIENTES FELICES</h4>
 					</header>
-					
+
 
 					<ul class="row clients-dotted list-inline">
 						<li class="col-md-5th col-sm-5th col-xs-6">
@@ -963,8 +963,447 @@
 			<!-- /CLIENTS -->
 @endsection
 
+
+@section('productos2')
+	<!-- -->
+	<section>
+		<div class="container">
+
+			<ul id="portfolio_filter" class="nav nav-pills margin-bottom-60">
+				<li class="filter active"><a data-filter="*" href="#">All</a></li>
+				<li class="filter"><a data-filter=".development" href="#">Development</a></li>
+				<li class="filter"><a data-filter=".photography" href="#">Photography</a></li>
+				<li class="filter"><a data-filter=".design" href="#">Design</a></li>
+			</ul>
+
+			<div id="portfolio" class="clearfix portfolio-isotope portfolio-isotope-2">
+
+				<div class="portfolio-item development"><!-- item -->
+
+					<div class="item-box">
+						<figure>
+							<span class="item-hover">
+								<span class="overlay dark-5"></span>
+								<span class="inner">
+
+									<!-- lightbox -->
+									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/20-min.jpg" data-plugin-options='{"type":"image"}'>
+										<span class="fa fa-plus size-20"></span>
+									</a>
+
+									<!-- details -->
+									<a class="ico-rounded" href="portfolio-single-slider.html">
+										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
+									</a>
+
+								</span>
+
+								<!-- overlay title -->
+								<div class="item-box-overlay-title">
+									<h3>Street Photography</h3>
+									<ul class="list-inline categories nomargin">
+										<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>
+									</ul>
+								</div><!-- /overlay title -->
+
+							</span>
+
+							<img class="img-responsive" src="assets/images/demo/720x400/20-min.jpg" width="600" height="399" alt="">
+						</figure>
+					</div>
+
+				</div><!-- /item -->
+
+
+				<div class="portfolio-item photography"><!-- item -->
+
+					<div class="item-box">
+						<figure>
+							<span class="item-hover">
+								<span class="overlay dark-5"></span>
+								<span class="inner">
+
+									<!-- lightbox -->
+									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/19-min.jpg" data-plugin-options='{"type":"image"}'>
+										<span class="fa fa-plus size-20"></span>
+									</a>
+
+									<!-- details -->
+									<a class="ico-rounded" href="portfolio-single-slider.html">
+										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
+									</a>
+
+								</span>
+
+								<!-- overlay title -->
+								<div class="item-box-overlay-title">
+									<h3>Street Photography</h3>
+									<ul class="list-inline categories nomargin">
+										<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>
+									</ul>
+								</div><!-- /overlay title -->
+
+							</span>
+
+							<img class="img-responsive" src="assets/images/demo/mockups/600x399/19-min.jpg" width="600" height="399" alt="">
+						</figure>
+					</div>
+
+				</div><!-- /item -->
+
+
+				<div class="portfolio-item design"><!-- item -->
+
+					<div class="item-box">
+						<figure>
+							<span class="item-hover">
+								<span class="overlay dark-5"></span>
+								<span class="inner">
+
+									<!-- lightbox -->
+									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/3-min.jpg" data-plugin-options='{"type":"image"}'>
+										<span class="fa fa-plus size-20"></span>
+									</a>
+
+									<!-- details -->
+									<a class="ico-rounded" href="portfolio-single-slider.html">
+										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
+									</a>
+
+								</span>
+
+								<!-- overlay title -->
+								<div class="item-box-overlay-title">
+									<h3>Street Photography</h3>
+									<ul class="list-inline categories nomargin">
+										<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>
+									</ul>
+								</div><!-- /overlay title -->
+
+							</span>
+
+							<img class="img-responsive" src="assets/images/demo/content_slider/3-min.jpg" width="600" height="399" alt="">
+						</figure>
+					</div>
+
+				</div><!-- /item -->
+
+
+				<div class="portfolio-item design"><!-- item -->
+
+					<div class="item-box">
+						<figure>
+							<span class="item-hover">
+								<span class="overlay dark-5"></span>
+								<span class="inner">
+
+									<!-- lightbox -->
+									<a class="ico-rounded lightbox" href="assets/images/demo/720x400/12-min.jpg" data-plugin-options='{"type":"image"}'>
+										<span class="fa fa-plus size-20"></span>
+									</a>
+
+									<!-- details -->
+									<a class="ico-rounded" href="portfolio-single-slider.html">
+										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
+									</a>
+
+								</span>
+
+								<!-- overlay title -->
+								<div class="item-box-overlay-title">
+									<h3>Street Photography</h3>
+									<ul class="list-inline categories nomargin">
+										<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>
+									</ul>
+								</div><!-- /overlay title -->
+
+							</span>
+
+							<img class="img-responsive" src="assets/images/demo/mockups/600x399/12-min.jpg" width="600" height="399" alt="">
+						</figure>
+					</div>
+
+				</div><!-- /item -->
+
+
+				<div class="portfolio-item development"><!-- item -->
+
+					<div class="item-box">
+						<figure>
+							<span class="item-hover">
+								<span class="overlay dark-5"></span>
+								<span class="inner">
+
+									<!-- lightbox -->
+									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/13-min.jpg" data-plugin-options='{"type":"image"}'>
+										<span class="fa fa-plus size-20"></span>
+									</a>
+
+									<!-- details -->
+									<a class="ico-rounded" href="portfolio-single-slider.html">
+										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
+									</a>
+
+								</span>
+
+								<!-- overlay title -->
+								<div class="item-box-overlay-title">
+									<h3>Street Photography</h3>
+									<ul class="list-inline categories nomargin">
+										<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>
+									</ul>
+								</div><!-- /overlay title -->
+
+							</span>
+
+							<img class="img-responsive" src="assets/images/demo/mockups/600x399/13-min.jpg" width="600" height="399" alt="">
+						</figure>
+					</div>
+
+				</div><!-- /item -->
+
+
+				<div class="portfolio-item photography"><!-- item -->
+
+					<div class="item-box">
+						<figure>
+							<span class="item-hover">
+								<span class="overlay dark-5"></span>
+								<span class="inner">
+
+									<!-- lightbox -->
+									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/14-min.jpg" data-plugin-options='{"type":"image"}'>
+										<span class="fa fa-plus size-20"></span>
+									</a>
+
+									<!-- details -->
+									<a class="ico-rounded" href="portfolio-single-slider.html">
+										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
+									</a>
+
+								</span>
+
+								<!-- overlay title -->
+								<div class="item-box-overlay-title">
+									<h3>Street Photography</h3>
+									<ul class="list-inline categories nomargin">
+										<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>
+									</ul>
+								</div><!-- /overlay title -->
+
+							</span>
+							<img class="img-responsive" src="assets/images/demo/720x400/14-min.jpg" width="600" height="399" alt="">
+						</figure>
+					</div>
+
+				</div><!-- /item -->
+
+
+				<div class="portfolio-item design"><!-- item -->
+
+					<div class="item-box">
+						<figure>
+							<span class="item-hover">
+								<span class="overlay dark-5"></span>
+								<span class="inner">
+
+									<!-- lightbox -->
+									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/15-min.jpg" data-plugin-options='{"type":"image"}'>
+										<span class="fa fa-plus size-20"></span>
+									</a>
+
+									<!-- details -->
+									<a class="ico-rounded" href="portfolio-single-slider.html">
+										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
+									</a>
+
+								</span>
+
+								<!-- overlay title -->
+								<div class="item-box-overlay-title">
+									<h3>Street Photography</h3>
+									<ul class="list-inline categories nomargin">
+										<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>
+									</ul>
+								</div><!-- /overlay title -->
+
+							</span>
+
+							<img class="img-responsive" src="assets/images/demo/mockups/600x399/15-min.jpg" width="600" height="399" alt="">
+						</figure>
+					</div>
+
+				</div><!-- /item -->
+
+
+				<div class="portfolio-item photography"><!-- item -->
+
+					<div class="item-box">
+						<figure>
+							<span class="item-hover">
+								<span class="overlay dark-5"></span>
+								<span class="inner">
+
+									<!-- lightbox -->
+									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/11-min.jpg" data-plugin-options='{"type":"image"}'>
+										<span class="fa fa-plus size-20"></span>
+									</a>
+
+									<!-- details -->
+									<a class="ico-rounded" href="portfolio-single-slider.html">
+										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
+									</a>
+
+								</span>
+
+								<!-- overlay title -->
+								<div class="item-box-overlay-title">
+									<h3>Street Photography</h3>
+									<ul class="list-inline categories nomargin">
+										<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>
+									</ul>
+								</div><!-- /overlay title -->
+
+
+							</span>
+
+							<!-- carousel -->
+							<div class="flexslider" data-arrowNav="false" data-slideshowSpeed="3000">
+								<ul class="slides">
+
+									<!-- Slide 1 -->
+									<li>
+										<a href="#">
+											<img class="img-responsive" src="assets/images/demo/mockups/600x399/8-min.jpg" width="600" height="399" alt="">
+										</a>
+									</li>
+
+									<!-- Slide 2 -->
+									<li>
+										<a href="#">
+											<img class="img-responsive" src="assets/images/demo/mockups/600x399/9-min.jpg" width="600" height="399" alt="">
+										</a>
+									</li>
+
+									<!-- Slide 3 -->
+									<li>
+										<a href="#">
+											<img class="img-responsive" src="assets/images/demo/mockups/600x399/10-min.jpg" width="600" height="399" alt="">
+										</a>
+									</li>
+
+								</ul>
+							</div>
+							<!-- /carousel -->
+
+							</figure>
+					</div>
+
+				</div><!-- /item -->
+
+			</div>
+
+		</div>
+	</section>
+	<!-- / -->
+@endsection
+
+@section('promociones')
+	<!-- LAYER SLIDER -->
+	<section id="slider">
+
+		<div class="slider">
+
+			<!--
+				AVAILABLE CLASSES
+					.height-300
+					.height-350
+					.height-400
+					.height-450
+					.height-500
+					.height-550
+					.height-600
+					.height-650
+					.height-700
+					.height-750
+					.height-800
+			-->
+			<div class="layerslider height-500" style="width:100%;">
+
+				<!-- SLIDE -->
+				<div class="ls-slide" data-ls="slidedelay:8000;transition2d:75,79;">
+
+					<!-- background image -->
+					<img src="assets/images/demo/layerslider/bg.jpg" class="ls-bg" alt="Slide background"/>
+
+					<img class="ls-l" data-ls="
+						durationin:1500;
+						scalexin:0.8;
+						scaleyin:0.8;
+						scalexout:0.8;
+						scaleyout:0.8;"
+						style="top:40px;left:65%;white-space: nowrap;" src="assets/images/demo/desktop.png" alt="">
+
+					<img class="ls-l" style="top:-601px;left:70px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:top;delayin:350;fadein:false;offsetxout:right;durationout:1000;fadeout:false;" src="assets/images/1x1.png" data-src="assets/images/caption_bg.png" alt="">
+					<p class="ls-l" style="top:48px;left:100px;color: #fff; text-shadow: none; font-size: 22px; line-height: 34px; padding: 0px 10px; padding-top: 1px; margin: 0px; border-width: 0px; border-style: none; background-color:#000; white-space: nowrap;" data-ls="offsetxin:0;durationin:1500;delayin:500;rotatein:30;scalexin:0.2;scaleyin:0.2;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;rotateout:30;scalexout:0.2;scaleyout:0.2;">Smarty Reponsive Template</p>
+					<p class="ls-l" style="top:92px;left:100px;font-size: 35px; line-height: 45px; color:#ffffff; white-space: nowrap;" data-ls="offsetxin:0;durationin:1500;delayin:750;rotatein:30;scalexin:0.2;scaleyin:0.2;offsetxout:right;durationout:1000;fadeout:false;rotateout:45;scalexout:0.2;scaleyout:0.2;">Great Captions</p>
+					<p class="ls-l" style="top:152px;left:100px;color: #fff; font-size: 13px; line-height: 20px; text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5); font-weight: 300; ;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1500;delayin:1200;fadein:false;offsetxout:0;offsetyout:bottom;durationout:1000;fadeout:false;">Awesome sliders give you the opportunity to <br />showcase important content. Smarty will constantly be <br /> updatedwith brand new features and additions</p>
+
+				</div>
+
+				<!-- SLIDE -->
+				<div class="ls-slide" data-ls="slidedelay:6000; transition2d: all;">
+
+					<img src="assets/images/1x1.png" data-src="assets/images/demo/1200x800/20-min.jpg" class="ls-bg" alt="Slide background" />
+					<img class="ls-l" style="top:-201px;left:70px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:top;delayin:350;fadein:false;offsetxout:right;durationout:1000;fadeout:false;" src="assets/images/1x1.png" data-src="assets/images/caption_bg.png" alt="">
+
+					<p class="ls-l" style="top:48px;left:100px;color: #fff; text-shadow: none; font-size: 22px; line-height: 34px; padding: 0px 10px; padding-top: 1px; margin: 0px; border-width: 0px; border-style: none; background-color:#000; white-space: nowrap;" data-ls="offsetxin:0;durationin:1500;delayin:500;rotatein:30;scalexin:0.2;scaleyin:0.2;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;rotateout:30;scalexout:0.2;scaleyout:0.2;">Smarty Reponsive Template</p>
+					<p class="ls-l" style="top:92px;left:100px;font-size: 35px; line-height: 45px; color:#ffffff; white-space: nowrap;" data-ls="offsetxin:0;durationin:1500;delayin:750;rotatein:30;scalexin:0.2;scaleyin:0.2;offsetxout:right;durationout:1000;fadeout:false;rotateout:45;scalexout:0.2;scaleyout:0.2;">Great Captions</p>
+					<p class="ls-l" style="top:152px;left:100px;color: #fff; font-size: 13px; line-height: 20px; text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5); font-weight: 300; ;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:bottom;durationin:1500;delayin:1200;fadein:false;offsetxout:0;offsetyout:bottom;durationout:1000;fadeout:false;">Awesome sliders give you the opportunity to <br />showcase important content. Smarty will constantly be <br /> updatedwith brand new features and additions</p>
+				</div>
+
+				<!-- SLIDE -->
+				<div class="ls-slide" data-ls="slidedelay:7000; transition2d: all;">
+					<img src="assets/images/1x1.png" data-src="assets/images/demo/layerslider/bg4.jpg" class="ls-bg" alt="Slide background" />
+					<img class="ls-l" style="top:179px;left:528px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:top;durationin:3500;delayin:500;easingin:swing;fadein:false;rotatein:30;scalexin:0.2;scaleyin:0.2;offsetxout:0;offsetyout:bottom;durationout:2000;fadeout:false;" src="assets/images/1x1.png" data-src="assets/images/demo/layerslider/baloon2.png" alt="">
+					<img class="ls-l" style="top:28px;left:117px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:bottom;durationin:3500;delayin:350;easingin:linear;fadein:false;rotatein:-20;scalexin:0.2;scaleyin:0.2;offsetxout:0;offsetyout:top;durationout:2500;easingout:linear;fadeout:false;" src="assets/images/1x1.png" data-src="assets/images/demo/layerslider/baloon1.png" alt="">
+					<img class="ls-l" style="top:441px;left:897px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:bottom;durationin:3500;delayin:550;easingin:swing;fadein:false;scalexin:0.2;scaleyin:0.2;offsetxout:0;offsetyout:bottom;durationout:1000;fadeout:false;" src="assets/images/1x1.png" data-src="assets/images/demo/layerslider/baloon3.png" alt="">
+
+					<img class="ls-l" style="top:-161px;left:790px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:top;delayin:1200;fadein:false;offsetxout:right;durationout:1000;fadeout:false;" src="assets/images/1x1.png" data-src="assets/images/caption_bg.png" alt="">
+					<p class="ls-l" style="top:70px;left:820px;color: #fff; text-shadow: none; font-size: 22px; line-height: 34px; padding: 0px 10px; padding-top: 1px; margin: 0px; border-width: 0px; border-style: none; background-color:#000; white-space: nowrap;" data-ls="offsetxin:0;durationin:1500;delayin:1400;rotatein:30;scalexin:0.2;scaleyin:0.2;offsetxout:0;offsetyout:top;durationout:1000;fadeout:false;rotateout:30;scalexout:0.2;scaleyout:0.2;">Smarty Includes</p>
+					<p class="ls-l" style="top:112px;left:820px;font-size: 42px; line-height: 45px; color:#ffffff;white-space: nowrap;" data-ls="offsetxin:0;durationin:1500;delayin:1600;rotatein:30;scalexin:0.2;scaleyin:0.2;offsetxout:right;durationout:1000;fadeout:false;rotateout:45;scalexout:0.2;scaleyout:0.2;">Premium Sliders</p>
+					<p class="ls-l" style="top:163px;left:820px;color: #fff; font-size: 13px; line-height: 20px; text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5); font-weight: 700; ;white-space: nowrap;" data-ls="offsetxin:0;durationin:1500;delayin:1800;offsetxout:0;offsetyout:bottom;durationout:1000;fadeout:false;">That allow you to create beautiful, unique <br />slides to grab the attention of your viewers.</p>
+				</div>
+
+			</div>
+
+			<script type="text/javascript">
+				var layer_options = {
+					responsive: 		false,
+					responsiveUnder: 	1280,
+					layersContainer: 	1280,
+					hoverPrevNext: 		true,
+					skinsPath: 			'assets/plugins/slider.layerslider/skins/'
+				}
+			</script>
+
+		</div>
+
+	</section>
+	<!-- /LAYER SLIDER -->
+@endsection
+
+
 @section("portafolio")
-			<!-- -->
+	<!-- -->
 			<section>
 				<div class="container">
 
@@ -1239,8 +1678,8 @@
 						</div>
 
 					</div>
-					
+
 				</div>
 			</section>
-			<!-- / 
+	<!-- -->
 @endsection
