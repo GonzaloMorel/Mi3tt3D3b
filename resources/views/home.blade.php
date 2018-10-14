@@ -1401,7 +1401,7 @@
 	<!-- /LAYER SLIDER -->
 @endsection
 
-
+#no considerar
 @section("portafolio")
 	<!-- -->
 			<section>
@@ -1682,4 +1682,57 @@
 				</div>
 			</section>
 	<!-- -->
+@endsection
+
+
+@section('promociones3')
+	<!--
+		data-controlNav="thumbnails" 	- thumbnails navigation
+		data-controlNav="true" 		- arrows navigation
+		data-controlNav="false"		- no navigation
+		data-arrowNav="false"		- no arrows navigation
+		data-slideshowSpeed="7000"	- slideshow speed
+		data-pauseOnHover="true"	- pause on mouse over
+	-->
+	<section id="slider">
+
+		<div class="flexslider">
+			<ul class="slides">
+
+				<!-- Slide 1 -->
+				<li>
+					<a href="#">
+						<img src="assets/images/demo/content_slider/10-min.jpg" alt="Slide 2">
+						<div class="flex-caption">Flexslider Caption #1</div>
+					</a>
+				</li>
+
+				<!-- Slide 2 -->
+				<li>
+					<a href="#">
+						<img src="assets/images/demo/content_slider/3-min.jpg" alt="Slide 3">
+						<div class="flex-caption">Flexslider Caption #2</div>
+					</a>
+				</li>
+
+				<!-- Slide 3 -->
+				<li>
+					<a href="#">
+						<img src="assets/images/demo/content_slider/21-min.jpg" alt="Slide 4">
+						<div class="flex-caption">Flexslider Caption #3</div>
+					</a>
+				</li>
+
+				<!-- Slide 4 -->
+				<li>
+					<a href="#">
+						<img src="assets/images/demo/content_slider/23-min.jpg" alt="Slide 5">
+						<div class="flex-caption">Flexslider Caption #4</div>
+					</a>
+				</li>
+
+			</ul>
+		</div>
+
+	</section>
 @endsection

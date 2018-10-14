@@ -81,7 +81,7 @@
 
 			@yield('titulo_promociones')
 			<br/><br/>
-			@yield('promociones')
+			@yield('promociones3')
 
 			<br/><br/>
 			<div id="productos"></div>
