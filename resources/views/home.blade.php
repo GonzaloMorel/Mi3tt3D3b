@@ -655,9 +655,9 @@
 			</div>
 		</div>
 	</footer>
-
 @endsection
 
+#no considerar
 @section('revolution_slider')
 					<!-- REVOLUTION SLIDER -->
 					<div class="slider fullwidthbanner-container roundedcorners margin-bottom-100">
@@ -1316,6 +1316,7 @@
 	<!-- / -->
 @endsection
 
+#posible
 @section('promociones')
 	<!-- LAYER SLIDER -->
 	<section id="slider">
