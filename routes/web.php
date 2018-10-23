@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::resources([
+    'products' => 'ProductsController',
+    'slider' => 'SliderController'
+]);
 /*
 las rutas se interpretan en orden
 
