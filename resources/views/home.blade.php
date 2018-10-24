@@ -174,8 +174,67 @@
 
 @endsection
 
-
 @section('sliderHead')
+			<!--
+				SLIDER
+
+				Classes:
+					.fullheight = full height slider
+			-->
+			<section id="slider" class="fullheight">
+
+				<!--
+					SWIPPER SLIDER PARAMS
+
+					data-effect="slide|fade|coverflow"
+					data-autoplay="2500|false" 						(remove to disable autoplay)
+				-->
+				<div class="swiper-container" data-effect="fade" data-autoplay="5000|false">
+					<div class="swiper-wrapper">
+
+
+						<!-- SLIDE 1 -->
+						@foreach($sliders => $slider)
+						<div class="swiper-slide" style="background-image: url('{{ asset('{{ slider.url_picture}}') }}');">
+							<div class="overlay dark-5"><!-- dark overlay [1 to 9 opacity] --></div>
+
+							<div class="display-table">
+								<div class="display-table-cell vertical-align-middle">
+									<div class="container">
+
+										<div class="row">
+											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
+
+												<h1 class="bold font-raleway wow fadeInUp menta_miette_letra" data-wow-delay="0.4s"><img class="made_with_love" src="{{ asset('assets/images/miette/made_with_love-01.png') }}"/></h1>
+												<p class="lead font-lato weight-300 wow fadeInUp" data-wow-delay="0.6s">{{ slider.text }} </p>
+												<!--<a class="btn btn-default btn-lg wow fadeIn" data-wow-delay="1.5s" href="#">PURCHASE NOW</a>-->
+
+											</div>
+										</div>
+
+									</div>
+								</div>
+							</div>
+
+						</div>
+						@endforeach
+						<!-- /SLIDE 1 -->
+
+
+					<!-- Swiper Pagination -->
+					<div class="swiper-pagination"></div>
+
+					<!-- Swiper Arrows -->
+					<div class="swiper-button-next"><i class="fa fa-angle-right"></i></div>
+					<div class="swiper-button-prev"><i class="fa fa-angle-left"></i></div>
+				</div>
+
+			</section>
+			<!-- /SLIDER -->
+
+@endsection
+
+@section('sliderHeadold')
 			<!--
 				SLIDER
 

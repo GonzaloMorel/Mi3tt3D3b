@@ -3,6 +3,7 @@
 namespace miette\Http\Controllers;
 
 use Illuminate\Http\Request;
+use \miette\Slider;
 
 class HomeController extends Controller
 {
@@ -13,7 +14,7 @@ class HomeController extends Controller
    */
     public function index()
     {
-        $products = products::all();
-        return view('home');
+        $slider = Slider::all()->where('activate',true);
+        return view('home',['slider' => $slider]);
     }
 }
