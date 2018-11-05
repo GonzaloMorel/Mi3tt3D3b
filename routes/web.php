@@ -13,6 +13,11 @@
 
 Route::get('/', 'HomeController@index');
 
+/*Route::get('/', function () {
+	//return("holamiette");
+    return view('home');
+});*/
+
 Route::resources([
     'products' => 'ProductsController',
     'slider' => 'SliderController'

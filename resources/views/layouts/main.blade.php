@@ -79,7 +79,7 @@
 			<div id="promociones"></div>
 			<br/><br/>
 
-			@yield('titulo_promociones')
+			<!--@yield('titulo_promociones')
 			<br/><br/>
 			@yield('promociones3')
 
@@ -96,7 +96,7 @@
 
 			<div id="clientes"></div>
 			<br/><br/>
-			@yield('clientes')
+			@yield('clientes')-->
 
 			<br/><br/>
 

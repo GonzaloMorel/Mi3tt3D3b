@@ -174,7 +174,7 @@
 
 @endsection
 
-@section('sliderHead')
+@section('sliderHeadold')
 			<!--
 				SLIDER
 
@@ -194,8 +194,8 @@
 
 
 						<!-- SLIDE 1 -->
-						@foreach($sliders => $slider)
-						<div class="swiper-slide" style="background-image: url('{{ asset('{{ slider.url_picture}}') }}');">
+						@foreach($sliders as $slider)
+						<div class="swiper-slide" style="background-image: url('{{ $slider->url_picture}} ');">
 							<div class="overlay dark-5"><!-- dark overlay [1 to 9 opacity] --></div>
 
 							<div class="display-table">
@@ -206,7 +206,7 @@
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
 												<h1 class="bold font-raleway wow fadeInUp menta_miette_letra" data-wow-delay="0.4s"><img class="made_with_love" src="{{ asset('assets/images/miette/made_with_love-01.png') }}"/></h1>
-												<p class="lead font-lato weight-300 wow fadeInUp" data-wow-delay="0.6s">{{ slider.text }} </p>
+												<p class="lead font-lato weight-300 wow fadeInUp" data-wow-delay="0.6s">{{ $slider->text}} </p>
 												<!--<a class="btn btn-default btn-lg wow fadeIn" data-wow-delay="1.5s" href="#">PURCHASE NOW</a>-->
 
 											</div>
@@ -234,7 +234,7 @@
 
 @endsection
 
-@section('sliderHeadold')
+@section('sliderHead')
 			<!--
 				SLIDER
 
