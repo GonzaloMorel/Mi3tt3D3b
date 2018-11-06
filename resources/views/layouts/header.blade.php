@@ -1,6 +1,5 @@
-@extends('main')
 
-@section('header')
+
 			<!--
 				AVAILABLE HEADER CLASSES
 
@@ -125,5 +124,3 @@
 				<!-- /Top Nav -->
 
 			</div>
-
-@endsection

@@ -71,7 +71,7 @@
 		<!-- wrapper -->
 	    <div id="wrapper">
 
-	        @yield('header')
+	        @includeIf('header')
 
 	        @yield('sliderHead')
 
@@ -79,7 +79,7 @@
 	        <div id="promociones"></div>
 	        <br/><br/>
 
-	        <!--@yield('titulo_promociones')
+	        yield('titulo_promociones')
 	        <br/><br/>
 	        @yield('promociones3')
 
@@ -96,11 +96,11 @@
 
 	        <div id="clientes"></div>
 	        <br/><br/>
-	        @yield('clientes')-->
+	        @yield('clientes')
 
 	        <br/><br/>
 
-	        @yield('footer')
+	        @includeIf('footer')
 
 	    </div>
 	    <!-- /wrapper -->

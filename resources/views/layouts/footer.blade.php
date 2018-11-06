@@ -1,7 +1,4 @@
-@extends('main')
 
-
-@section('footer')
 
 	<footer id="footer">
 		<div class="container">
@@ -118,4 +115,3 @@
 			</div>
 		</div>
 	</footer>
-@endsection
