@@ -71,36 +71,26 @@
 		<!-- wrapper -->
 	    <div id="wrapper">
 
-	        @includeIf('header')
+	        @includeIf('layouts.header')
 
 	        @yield('sliderHead')
 
-	        <br/><br/>
-	        <div id="promociones"></div>
-	        <br/><br/>
-
-	        yield('titulo_promociones')
-	        <br/><br/>
-	        @yield('promociones3')
-
-	        <br/><br/>
-	        <div id="productos"></div>
-	        <br/><br/>
+	        {{--@yield('titulo_promociones')--}}
+	        <!--<br/><br/>-->
+	        {{-- @yield('promociones3') --}}
 
 	        @yield('titulo_produtos')
-	        <br/><br/>
+
 	        @yield('productos2')
 
-	        <br/><br/>
 	        @yield('contacto_mayorista')
 
-	        <div id="clientes"></div>
-	        <br/><br/>
+
 	        @yield('clientes')
 
 	        <br/><br/>
 
-	        @includeIf('footer')
+	        @includeIf('layouts.footer')
 
 	    </div>
 	    <!-- /wrapper -->

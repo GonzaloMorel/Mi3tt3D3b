@@ -568,12 +568,12 @@
 	<section>
 		<div class="container">
 
-			<ul id="portfolio_filter" class="nav nav-pills margin-bottom-60">
+			<!--<ul id="portfolio_filter" class="nav nav-pills margin-bottom-60">
 				<li class="filter active"><a data-filter="*" href="#">All</a></li>
 				<li class="filter"><a data-filter=".development" href="#">Development</a></li>
 				<li class="filter"><a data-filter=".photography" href="#">Photography</a></li>
 				<li class="filter"><a data-filter=".design" href="#">Design</a></li>
-			</ul>
+			</ul>-->
 
 			<div id="portfolio" class="clearfix portfolio-isotope portfolio-isotope-2">
 
@@ -586,7 +586,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/20-min.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5523.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -608,7 +608,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="assets/images/demo/720x400/20-min.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/_NIK5523.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -624,7 +624,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/19-min.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5546.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -646,7 +646,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="assets/images/demo/mockups/600x399/19-min.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/_NIK5546.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -915,7 +915,7 @@
 	<!-- / -->
 @endsection
 
-#posible
+{{--posible--}}
 @section('promociones')
 	<!-- LAYER SLIDER -->
 	<section id="slider">
