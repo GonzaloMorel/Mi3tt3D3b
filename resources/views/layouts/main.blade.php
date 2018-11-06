@@ -69,41 +69,41 @@
 
 
 		<!-- wrapper -->
-		<div id="wrapper">
+	    <div id="wrapper">
 
-			@yield('header')
+	        @yield('header')
 
-			@yield('sliderHead')
+	        @yield('sliderHead')
 
-			<br/><br/>
-			<div id="promociones"></div>
-			<br/><br/>
+	        <br/><br/>
+	        <div id="promociones"></div>
+	        <br/><br/>
 
-			<!--@yield('titulo_promociones')
-			<br/><br/>
-			@yield('promociones3')
+	        <!--@yield('titulo_promociones')
+	        <br/><br/>
+	        @yield('promociones3')
 
-			<br/><br/>
-			<div id="productos"></div>
-			<br/><br/>
+	        <br/><br/>
+	        <div id="productos"></div>
+	        <br/><br/>
 
-			@yield('titulo_produtos')
-			<br/><br/>
-			@yield('productos2')
+	        @yield('titulo_produtos')
+	        <br/><br/>
+	        @yield('productos2')
 
-			<br/><br/>
-			@yield('contacto_mayorista')
+	        <br/><br/>
+	        @yield('contacto_mayorista')
 
-			<div id="clientes"></div>
-			<br/><br/>
-			@yield('clientes')-->
+	        <div id="clientes"></div>
+	        <br/><br/>
+	        @yield('clientes')-->
 
-			<br/><br/>
+	        <br/><br/>
 
-			@yield('footer')
+	        @yield('footer')
 
-		</div>
-		<!-- /wrapper -->
+	    </div>
+	    <!-- /wrapper -->
 
 		<!-- JAVASCRIPT FILES -->
 		<script type="text/javascript">var plugin_path = '{{  asset('assets/plugins') }}/';</script>
