@@ -86,7 +86,7 @@
 	        @yield('contacto_mayorista')
 
 
-	        @yield('clientes')
+	        {{--@yield('clientes')--}}
 
 	        <br/><br/>
 

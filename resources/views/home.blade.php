@@ -624,7 +624,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5546.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5615.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -646,7 +646,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="FotosMiette2018/_NIK5546.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/_NIK5615.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -662,7 +662,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/3-min.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5656.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -684,7 +684,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="assets/images/demo/content_slider/3-min.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/_NIK5656.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -700,7 +700,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="assets/images/demo/720x400/12-min.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5715.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -722,7 +722,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="assets/images/demo/mockups/600x399/12-min.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/_NIK5715.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -738,7 +738,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/13-min.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5744.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -760,7 +760,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="assets/images/demo/mockups/600x399/13-min.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/_NIK5744.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -776,7 +776,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/14-min.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5784.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -797,7 +797,7 @@
 								</div><!-- /overlay title -->
 
 							</span>
-							<img class="img-responsive" src="assets/images/demo/720x400/14-min.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/_NIK5784.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -813,7 +813,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/15-min.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5817.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -835,14 +835,13 @@
 
 							</span>
 
-							<img class="img-responsive" src="assets/images/demo/mockups/600x399/15-min.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/_NIK5817.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
 				</div><!-- /item -->
 
-
-				<div class="portfolio-item photography"><!-- item -->
+				<div class="portfolio-item design"><!-- item -->
 
 					<div class="item-box">
 						<figure>
@@ -851,7 +850,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/11-min.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5825.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -871,28 +870,66 @@
 									</ul>
 								</div><!-- /overlay title -->
 
+							</span>
+
+							<img class="img-responsive" src="FotosMiette2018/_NIK5825.jpg" width="600" height="399" alt="">
+						</figure>
+					</div>
+
+				</div><!-- /item -->
+
+
+				<!--<div class="portfolio-item photography"><!-- item --
+
+					<div class="item-box">
+						<figure>
+							<span class="item-hover">
+								<span class="overlay dark-5"></span>
+								<span class="inner">
+
+									<!-- lightbox --
+									<a class="ico-rounded lightbox" href="assets/images/demo/mockups/1200x800/11-min.jpg" data-plugin-options='{"type":"image"}'>
+										<span class="fa fa-plus size-20"></span>
+									</a>
+
+									<!-- details --
+									<a class="ico-rounded" href="portfolio-single-slider.html">
+										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
+									</a>
+
+								</span>
+
+								<!-- overlay title --
+								<div class="item-box-overlay-title">
+									<h3>Street Photography</h3>
+									<ul class="list-inline categories nomargin">
+										<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>
+									</ul>
+								</div><!-- /overlay title --
+
 
 							</span>
 
-							<!-- carousel -->
+							<!-- carousel --
 							<div class="flexslider" data-arrowNav="false" data-slideshowSpeed="3000">
 								<ul class="slides">
 
-									<!-- Slide 1 -->
+									<!-- Slide 1 --
 									<li>
 										<a href="#">
 											<img class="img-responsive" src="assets/images/demo/mockups/600x399/8-min.jpg" width="600" height="399" alt="">
 										</a>
 									</li>
 
-									<!-- Slide 2 -->
+									<!-- Slide 2 --
 									<li>
 										<a href="#">
 											<img class="img-responsive" src="assets/images/demo/mockups/600x399/9-min.jpg" width="600" height="399" alt="">
 										</a>
 									</li>
 
-									<!-- Slide 3 -->
+									<!-- Slide 3 --
 									<li>
 										<a href="#">
 											<img class="img-responsive" src="assets/images/demo/mockups/600x399/10-min.jpg" width="600" height="399" alt="">
@@ -901,7 +938,7 @@
 
 								</ul>
 							</div>
-							<!-- /carousel -->
+							<!-- /carousel --
 
 							</figure>
 					</div>

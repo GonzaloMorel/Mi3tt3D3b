@@ -7,6 +7,7 @@
 
 				<div class="col-md-8">
 
+
 					<!-- Footer Logo -->
 					<img class="footer-logo footer-2" src="assets/images/miette/logo_web.png" alt="" />
 
@@ -15,25 +16,11 @@
 
 					<hr />
 
+
 					<div class="row">
-						<div class="col-md-6 col-sm-6">
 
-							<!-- Newsletter Form -->
-							<p class="margin-bottom-10">Subscribe to Our <strong>Newsletter</strong></p>
 
-							<form id="newsletterForm" action="php/newsletter.php" role="form" method="post">
-								<div class="input-group">
-									<span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-									<input type="email" id="email" name="email" class="form-control" placeholder="Enter your Email" required="required">
-									<span class="input-group-btn">
-										<button class="btn btn-success" type="submit">Subscribe</button>
-									</span>
-								</div>
-							</form>
-							<!-- /Newsletter Form -->
-						</div>
-
-						<div class="col-md-6 col-sm-6 hidden-xs">
+						<div class="col-md-12 col-sm-12 centered">
 
 							<!-- Social Icons -->
 							<div class="margin-left-50 clearfix">
@@ -69,33 +56,35 @@
 
 						</div>
 
+
 					</div>
 
 
 
 				</div>
 
-				<div class="col-md-4" id="contacto">
+				<!-- col #2 -->
+				<div class="col-md-4">
+					<h3 class="letter-spacing-1">KEEP IN TOUCH</h3>
 
-					<h4 class="letter-spacing-1">CONTACTANOS</h4>
+					<!-- Newsletter Form -->
+					<p>Subscribe to Our Newsletter to get Important News & Offers</p>
 
-					<!-- CONTACT MESSAGES -->
-					<p id="alert_success" class="alert alert-success alert-mini">Message sent! Thank You!</p>
-					<p id="alert_failed" class="alert alert-danger alert-mini">Message not sent!</p>
-					<p id="alert_mandatory" class="alert alert-danger alert-mini">Please, complete all mandatory fields</p>
-
-					<!-- CONTACT FORM -->
-					<form class="validate" method="post" action="php/contact.php">
-
-						<input type="text" value="" placeholder="Nombre*" maxlength="100" class="form-control required" name="contact[name]" />
-						<input type="email" value="" placeholder="Email*" data-msg-email="Por favor Ingresar una dirección de correo válida." class="form-control required" name="contact[email]" />
-						<textarea maxlength="5000" placeholder="Mensaje*" rows="3" class="form-control required" name="contact[message]"></textarea>
-						<input type="submit" value="ENVIAR MENSAJE" class="btn btn-success" />
-
+					<form class="validate" action="php/newsletter.php" method="post" data-success="Subscribed! Thank you!" data-toastr-position="bottom-right">
+						<div class="input-group">
+							<span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+							<input type="email" id="email" name="email" class="form-control required" placeholder="Enter your Email">
+							<span class="input-group-btn">
+								<button class="btn btn-success" type="submit">Subscribe</button>
+							</span>
+						</div>
 					</form>
-					<!-- /CONTACT FORM -->
+					<!-- /Newsletter Form -->
+
 
 				</div>
+				<!-- /col #2 -->
+
 
 			</div>
 
