@@ -20,7 +20,7 @@
 					<div class="row">
 
 
-						<div class="col-md-12 col-sm-12 centered">
+						<div class="col-md-12 col-sm-12">
 
 							<!-- Social Icons -->
 							<div class="margin-left-50 clearfix">

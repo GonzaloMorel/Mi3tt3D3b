@@ -427,7 +427,7 @@
 			<!--<span class="font-lato size-18 weight-300">We believe in Simple & Creative</span>-->
 
 			<!-- breadcrumbs -->
-			<ol class="breadcrumb">
+			<!--<ol class="breadcrumb">
 				<li><a href="#">Home</a></li>
 				<li><a href="#">Features</a></li>
 				<li class="active">Page Title</li>
