@@ -19,6 +19,10 @@
 		<!-- CORE CSS -->
 		<link href="{{  asset('assets/plugins/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
 
+		<!-- THEME CSS -->
+		<link href="{{ asset('assets/css/essentials.css') }}" rel="stylesheet" type="text/css" />
+		<link href="{{  asset('assets/css/layout.css') }}" rel="stylesheet" type="text/css" />
+
 		<!-- REVOLUTION SLIDER -->
 		<link href="{{ asset('assets/plugins/slider.revolution/css/extralayers.css') }}" rel="stylesheet" type="text/css" />
 		<link href="{{ asset('assets/plugins/slider.revolution/css/settings.css' )}}" rel="stylesheet" type="text/css" />
@@ -27,12 +31,10 @@
 		<link href="{{  asset('assets/plugins/slider.swiper/dist/css/swiper.min.css') }}" rel="stylesheet" type="text/css" />
 
 		<!-- LAYER SLIDER -->
-		<link href="{{ asset('assets/plugins/slider.layerslider/css/layerslider.css') }}" rel="stylesheet" type="text/css" />
+		<!--<link href="{{ asset('assets/plugins/slider.layerslider/css/layerslider.css') }}" rel="stylesheet" type="text/css" />-->
 
 
-		<!-- THEME CSS -->
-		<link href="{{ asset('assets/css/essentials.css') }}" rel="stylesheet" type="text/css" />
-		<link href="{{  asset('assets/css/layout.css') }}" rel="stylesheet" type="text/css" />
+
 
 		<!-- PAGE LEVEL SCRIPTS -->
 		<link href="{{  asset('assets/css/header-1.css') }}" rel="stylesheet" type="text/css" />
@@ -99,21 +101,23 @@
 		<script type="text/javascript">var plugin_path = '{{  asset('assets/plugins') }}/';</script>
 		<script type="text/javascript" src="{{  asset('assets/plugins/jquery/jquery-2.1.4.min.js') }}"></script>
 
-		<!-- REVOLUTION SLIDER -->
-		<script type="text/javascript" src="assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js"></script>
-		<script type="text/javascript" src="assets/plugins/slider.revolution/js/jquery.themepunch.revolution.min.js"></script>
-		<script type="text/javascript" src="assets/js/view/demo.revolution_slider.js"></script>
-
-		<!-- LAYER SLIDER -->
-		<script type="text/javascript" src="{{ asset('assets/plugins/slider.layerslider/js/layerslider_pack.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('assets/js/view/demo.layerslider_slider.js') }}"></script>
-
-		<!-- SWIPER SLIDER -->
-		<!--<script type="text/javascript" src="{{  asset('assets/plugins/slider.swiper/dist/js/swiper.min.js')}}"></script>
-		<script type="text/javascript" src="{{  asset('assets/js/view/demo.swiper_slider.js')}}"></script>-->
-
 		<!-- SCRIPTS -->
 		<script type="text/javascript" src="{{  asset('assets/js/scripts.js')}}"></script>
+
+		<!-- REVOLUTION SLIDER -->
+		<script type="text/javascript" src="{{ asset('assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('assets/plugins/slider.revolution/js/jquery.themepunch.revolution.min.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('assets/js/view/demo.revolution_slider.js') }}"></script>
+
+		<!-- LAYER SLIDER -->
+		<!--<script type="text/javascript" src="{{ asset('assets/plugins/slider.layerslider/js/layerslider_pack.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('assets/js/view/demo.layerslider_slider.js') }}"></script>-->
+
+		<!-- SWIPER SLIDER -->
+		<script type="text/javascript" src="{{  asset('assets/plugins/slider.swiper/dist/js/swiper.min.js')}}"></script>
+		<script type="text/javascript" src="{{  asset('assets/js/view/demo.swiper_slider.js')}}"></script>
+
+
 
 		<!-- STYLESWITCHER - REMOVE -->
 		<!--<script async type="text/javascript" src="{{  asset('assets/plugins/styleswitcher/styleswitcher.js')}}"></script>-->

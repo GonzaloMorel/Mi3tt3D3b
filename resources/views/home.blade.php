@@ -137,7 +137,7 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp menta_miette_letra" data-wow-delay="0.4s"><img class="made_with_love" src="{{ asset('assets/images/miette/made_with_love-01.png') }}"/></h1>
+												<h1 class="font-raleway wow fadeInUp menta_miette_letra open_sans" data-wow-delay="0.4s">MADE WITH L<i class="et-heart corazon"></i>VE</h1>
 												<p class="lead font-lato weight-300 wow fadeInUp" data-wow-delay="0.6s">Sus deliciosos productos, elaborados a mano por su propia dueña, tienen el mágico don de despertar el apetito a cualquiera... </p>
 												<!--<a class="btn btn-default btn-lg wow fadeIn" data-wow-delay="1.5s" href="#">PURCHASE NOW</a>-->
 
@@ -162,7 +162,7 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp menta_miette_letra" data-wow-delay="0.4s"><img class="made_with_love" src="{{ asset('assets/images/miette/made_with_love-01.png') }}"/></h1>
+												<h1 class="font-raleway wow fadeInUp menta_miette_letra open_sans" data-wow-delay="0.4s">MADE WITH L<i class="et-heart corazon"></i>VE</h1>
 												<p class="lead font-lato weight-300 wow fadeInUp" data-wow-delay="0.6s">Se trata de Miette, un salón de té ubicado a pasos de Escuela Militar que recientemente abrió sus puertas al público para ofrecer una exquisita repostería artesanal.... </p>
 												<!--<a class="btn btn-default btn-lg wow fadeIn" data-wow-delay="1.5s" href="#">PURCHASE NOW</a>-->
 
@@ -188,7 +188,7 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp menta_miette_letra" data-wow-delay="0.4s"><img class="made_with_love" src="{{ asset('assets/images/miette/made_with_love-01.png') }}"/></h1>
+												<h1 class="font-raleway wow fadeInUp menta_miette_letra open_sans" data-wow-delay="0.4s">MADE WITH L<i class="et-heart corazon"></i>VE</h1>
 												<p class="lead font-lato weight-300 wow fadeInUp" data-wow-delay="0.6s">Con sus tortas, cheescakes, brownies, blondies, galletas y cinammon rolls.... </p>
 												<!--<a class="btn btn-default btn-lg wow fadeIn" data-wow-delay="1.5s" href="#">PURCHASE NOW</a>-->
 
@@ -213,9 +213,9 @@
 										<div class="row">
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
-												<h1 class="bold font-raleway wow fadeInUp menta_miette_letra" data-wow-delay="0.4s"><img class="made_with_love" src="{{ asset('assets/images/miette/made_with_love-01.png') }}"/></h1>
+												<h1 class="font-raleway wow fadeInUp menta_miette_letra open_sans" data-wow-delay="0.4s">MADE WITH L<i class="et-heart corazon"></i>VE</h1>
 												<p class="lead font-lato weight-300 wow fadeInUp" data-wow-delay="0.6s">Miette busca rescatar la cocina de las abuelas, esa que se hace a mano, paso a paso, cuidando cada detalle, utilizando ingredientes naturales y frescos, logrando así sabores, texturas y aromas caseros como los de antaño. </p>
-												<a class="btn btn-default btn-lg wow fadeIn" data-wow-delay="1.5s" href="#">Conocenos Mas</a>
+												<!--<a class="btn btn-default btn-lg wow fadeIn" data-wow-delay="1.5s" href="#">Conocenos Mas</a>-->
 
 											</div>
 										</div>

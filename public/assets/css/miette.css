@@ -53,3 +53,21 @@ section.miette_menta_claro.page-header h1 span{
 .bg_miette_menta_claro{
 	background-color: #87cbc9;
 }
+
+.corazon{
+	font-size: 46px !important;
+	font-weight: bold !important;
+
+}
+
+@media only screen and (max-width: 768px) {
+	.corazon{
+		font-size: 22px !important;
+		font-weight: bold !important;
+	}
+}
+
+.open_sans{
+	font-family: 'Open Sans', sans-serif !important;
+	font-weight: 600;
+}
