@@ -79,14 +79,17 @@
 
 	        {{--@yield('titulo_promociones')--}}
 	        <!--<br/><br/>-->
+
 	        {{-- @yield('promociones3') --}}
 
 	        @yield('titulo_produtos')
-
+			<div id="productos">
 	        @yield('productos2')
+			</div>
 
+			<div id="contacto">
 	        @yield('contacto_mayorista')
-
+			</div>
 
 	        {{--@yield('clientes')--}}
 

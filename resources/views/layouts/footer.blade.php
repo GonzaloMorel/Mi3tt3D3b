@@ -12,9 +12,9 @@
 					<img class="footer-logo footer-2" src="assets/images/miette/logo_web.png" alt="" />
 
 					<!-- Small Description -->
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus nulla, commodo a sodales sed, dignissim pretium nunc. Nam et lacus neque.</p>
+					<!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus nulla, commodo a sodales sed, dignissim pretium nunc. Nam et lacus neque.</p>-->
 
-					<hr />
+					<!--<hr />-->
 
 
 					<div class="row">
@@ -25,18 +25,18 @@
 							<!-- Social Icons -->
 							<div class="margin-left-50 clearfix">
 
-								<p class="margin-bottom-10">Follow Us</p>
-								<a href="#" class="social-icon social-icon-sm social-icon-transparent social-facebook pull-left" data-toggle="tooltip" data-placement="top" title="Facebook">
+								<p class="margin-bottom-10">Siguenos en!</p>
+								<a href="https://www.facebook.com/miettebakery" class="social-icon social-icon-sm social-icon-transparent social-facebook pull-left" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank">
 									<i class="icon-facebook"></i>
 									<i class="icon-facebook"></i>
 								</a>
 
-								<a href="#" class="social-icon social-icon-sm social-icon-transparent social-twitter pull-left" data-toggle="tooltip" data-placement="top" title="Twitter">
-									<i class="icon-twitter"></i>
-									<i class="icon-twitter"></i>
+								<a href="https://www.instagram.com/miette_bakery" class="social-icon social-icon-sm social-icon-transparent social-twitter pull-left" data-toggle="tooltip" data-placement="top" title="Instagram" target="_blank">
+									<i class="icon-instagram"></i>
+									<i class="icon-instagram"></i>
 								</a>
 
-								<a href="#" class="social-icon social-icon-sm social-icon-transparent social-gplus pull-left" data-toggle="tooltip" data-placement="top" title="Google plus">
+								<!--<a href="#" class="social-icon social-icon-sm social-icon-transparent social-gplus pull-left" data-toggle="tooltip" data-placement="top" title="Google plus">
 									<i class="icon-gplus"></i>
 									<i class="icon-gplus"></i>
 								</a>
@@ -49,7 +49,7 @@
 								<a href="#" class="social-icon social-icon-sm social-icon-transparent social-rss pull-left" data-toggle="tooltip" data-placement="top" title="Rss">
 									<i class="icon-rss"></i>
 									<i class="icon-rss"></i>
-								</a>
+								</a>-->
 
 							</div>
 							<!-- /Social Icons -->

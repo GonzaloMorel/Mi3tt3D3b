@@ -41,7 +41,7 @@
 						<ul class="pull-right nav nav-pills nav-second-main">
 
 							<!-- SEARCH -->
-							<li class="search">
+							<!--<li class="search">
 								<a href="javascript:;">
 									<i class="fa fa-search"></i>
 								</a>
@@ -55,7 +55,7 @@
 										</div>
 									</form>
 								</div>
-							</li>
+							</li>-->
 							<!-- /SEARCH -->
 
 
@@ -88,27 +88,27 @@
 									</li>
 								-->
 								<ul id="topMain" class="nav nav-pills nav-main">
-									<li class="dropdown active"><!-- HOME -->
+									<li class="dropdown texto_cafe active"><!-- HOME -->
 										<a href="#">
 											HOME
 										</a>
 									</li>
-									<li class="dropdown"><!-- OFERTAS -->
-										<a href="#promociones">
+									<!--<li class="dropdown">--><!-- OFERTAS -->
+										<!--<a href="#promociones">
 											PROMOCIONES
 										</a>
-									</li>
-									<li class="dropdown"><!-- PRODUCTOS -->
+									</li>-->
+									<li class="dropdown texto_cafe"><!-- PRODUCTOS -->
 										<a href="#productos">
 											PRODUCTOS
 										</a>
 									</li>
-									<li class="dropdown"><!-- CONTACTO -->
+									<li class="dropdown texto_cafe"><!-- CONTACTO -->
 										<a href="#contacto">
-											CONTACTO
+											CONTACTO EMPRESAS
 										</a>
 									</li>
-									<li class="dropdown"><!-- SHORTCODES -->
+									<li class="dropdown texto_cafe"><!-- SHORTCODES -->
 										<a href="#clientes">
 											CLIENTES
 										</a>

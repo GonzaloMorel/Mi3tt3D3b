@@ -484,7 +484,7 @@
 						</div>
 
 						<div class="col-md-3"><!-- button -->
-							<a href="page-careers.html" class="btn btn-primary btn-lg">Contacto</a>
+							<a href="page-careers.html" class="btn btn-primary btn-lg btn_cafe" >Contacto</a>
 						</div>
 
 					</div>
