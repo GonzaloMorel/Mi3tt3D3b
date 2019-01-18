@@ -591,18 +591,18 @@
 									</a>
 
 									<!-- details -->
-									<a class="ico-rounded" href="portfolio-single-slider.html">
+									<!--<a class="ico-rounded" href="portfolio-single-slider.html">
 										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
-									</a>
+									</a>-->
 
 								</span>
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Street Photography</h3>
+									<h3>Brownies</h3>
 									<ul class="list-inline categories nomargin">
-										<li><a href="#">Photography</a></li>
-										<li><a href="#">Design</a></li>
+										<!--<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>-->
 									</ul>
 								</div><!-- /overlay title -->
 
@@ -629,18 +629,18 @@
 									</a>
 
 									<!-- details -->
-									<a class="ico-rounded" href="portfolio-single-slider.html">
+									<!--<a class="ico-rounded" href="portfolio-single-slider.html">
 										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
-									</a>
+									</a>-->
 
 								</span>
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Street Photography</h3>
+									<h3>Cheesecake de Oreo</h3>
 									<ul class="list-inline categories nomargin">
-										<li><a href="#">Photography</a></li>
-										<li><a href="#">Design</a></li>
+										<!--<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>-->
 									</ul>
 								</div><!-- /overlay title -->
 
@@ -667,18 +667,18 @@
 									</a>
 
 									<!-- details -->
-									<a class="ico-rounded" href="portfolio-single-slider.html">
+									<!--<a class="ico-rounded" href="portfolio-single-slider.html">
 										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
-									</a>
+									</a>-->
 
 								</span>
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Street Photography</h3>
+									<h3>Carrot Cake</h3>
 									<ul class="list-inline categories nomargin">
-										<li><a href="#">Photography</a></li>
-										<li><a href="#">Design</a></li>
+										<!--<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>-->
 									</ul>
 								</div><!-- /overlay title -->
 
@@ -705,18 +705,18 @@
 									</a>
 
 									<!-- details -->
-									<a class="ico-rounded" href="portfolio-single-slider.html">
+									<!--<a class="ico-rounded" href="portfolio-single-slider.html">
 										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
-									</a>
+									</a>-->
 
 								</span>
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Street Photography</h3>
+									<h3>Cheesecake de Maracuyá</h3>
 									<ul class="list-inline categories nomargin">
-										<li><a href="#">Photography</a></li>
-										<li><a href="#">Design</a></li>
+										<!--<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>-->
 									</ul>
 								</div><!-- /overlay title -->
 
@@ -818,18 +818,18 @@
 									</a>
 
 									<!-- details -->
-									<a class="ico-rounded" href="portfolio-single-slider.html">
+									<!--<a class="ico-rounded" href="portfolio-single-slider.html">
 										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
-									</a>
+									</a>-->
 
 								</span>
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Street Photography</h3>
+									<h3>Cinnamon Roll</h3>
 									<ul class="list-inline categories nomargin">
-										<li><a href="#">Photography</a></li>
-										<li><a href="#">Design</a></li>
+										<!--<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>-->
 									</ul>
 								</div><!-- /overlay title -->
 
@@ -1090,4 +1090,50 @@
 		</div>
 
 	</section>
+@endsection
+
+
+@section('testimonial')
+	<section class="alternate">
+		<div class="container">
+			<div class="row">
+						<div class="col-md-12 col-sm-12">
+								<h3 class="size-20 text-center">Algunos de Nuestros Clientes.</h3>
+								<!--
+									Note: remove class="rounded" from the img for squared image!
+								-->
+								<ul class="row clearfix testimonial-dotted list-unstyled">
+									<li class="col-md-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets/images/demo/people/300x300/2-min.jpg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>
+												<cite>
+													Joana Doe
+													<span>Company Ltd.</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets/images/demo/people/300x300/6-min.jpg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>
+												<cite>
+													Melissa Doe
+													<span>Company Ltd.</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+				</div>
+			</div>
+	</div>
 @endsection

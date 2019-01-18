@@ -88,10 +88,11 @@
 			</div>
 
 			<div id="contacto">
-	        @yield('contacto_mayorista')
+	       {{--  @yield('contacto_mayorista')--}}
 			</div>
 
 	        {{--@yield('clientes')--}}
+			@yield('testimonial')
 
 	        <br/><br/>
 
