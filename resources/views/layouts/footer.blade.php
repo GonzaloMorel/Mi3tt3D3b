@@ -20,7 +20,7 @@
 					<div class="row">
 						<div class="col-md-2 col-sm-2">
 							<!-- Footer Logo -->
-							<img class="footer-logo footer-2" src="assets/images/miette/logo_web.png" alt="" />
+							<img class="footer-logo footer-2" src="assets/images/miette/logo_cafe_web.png" alt="" />
 						</div>
 
 
