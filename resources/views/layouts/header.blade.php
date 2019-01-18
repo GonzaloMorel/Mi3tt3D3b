@@ -103,11 +103,11 @@
 											PRODUCTOS
 										</a>
 									</li>
-									<li class="dropdown texto_cafe"><!-- CONTACTO -->
-										<a href="#contacto">
+									<!--<li class="dropdown texto_cafe">--><!-- CONTACTO -->
+										<!--<a href="#contacto">
 											CONTACTO EMPRESAS
 										</a>
-									</li>
+									</li>-->
 									<li class="dropdown texto_cafe"><!-- SHORTCODES -->
 										<a href="#clientes">
 											CLIENTES
