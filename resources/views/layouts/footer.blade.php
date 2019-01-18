@@ -9,7 +9,7 @@
 
 
 					<!-- Footer Logo -->
-					<img class="footer-logo footer-2" src="assets/images/miette/logo_web.png" alt="" />
+					<!--<img class="footer-logo footer-2" src="assets/images/miette/logo_web.png" alt="" />-->
 
 					<!-- Small Description -->
 					<!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus nulla, commodo a sodales sed, dignissim pretium nunc. Nam et lacus neque.</p>-->
@@ -18,9 +18,13 @@
 
 
 					<div class="row">
+						<div class="col-md-2 col-sm-2">
+							<!-- Footer Logo -->
+							<img class="footer-logo footer-2" src="assets/images/miette/logo_web.png" alt="" />
+						</div>
 
 
-						<div class="col-md-12 col-sm-12">
+						<div class="col-md-10 col-sm-10">
 
 							<!-- Social Icons -->
 							<div class="margin-left-50 clearfix">
@@ -65,10 +69,10 @@
 
 				<!-- col #2 -->
 				<div class="col-md-4">
-					<h3 class="letter-spacing-1">KEEP IN TOUCH</h3>
+					<!--<h3 class="letter-spacing-1">KEEP IN TOUCH</h3>-->
 
 					<!-- Newsletter Form -->
-					<p>Subscribe to Our Newsletter to get Important News & Offers</p>
+					<!--<p>Subscribe to Our Newsletter to get Important News & Offers</p>
 
 					<form class="validate" action="php/newsletter.php" method="post" data-success="Subscribed! Thank you!" data-toastr-position="bottom-right">
 						<div class="input-group">
@@ -78,7 +82,7 @@
 								<button class="btn btn-success" type="submit">Subscribe</button>
 							</span>
 						</div>
-					</form>
+					</form>-->
 					<!-- /Newsletter Form -->
 
 
@@ -94,13 +98,14 @@
 			<div class="container">
 				<ul class="list-inline inline-links mobile-block pull-right nomargin">
 					<li><a href="#">Home</a></li>
-					<li><a href="#">About Us</a></li>
-					<li><a href="#">Portfolio</a></li>
-					<li><a href="#">Pricing</a></li>
-					<li><a href="#">Contact</a></li>
+					<!--<li><a href="#promociones">Promociones</a></li>-->
+					<li><a href="#productos">Productos</a></li>
+					<!--<li><a href="#contacto">Contacto Empresas</a></li>-->
+					<li><a href="#clientes">Clientes</a></li>
+
 				</ul>
 
-				&copy; All Rights Reserved, Company LTD
+				&copy; Todos los derechos reservados, Miette
 			</div>
 		</div>
 	</footer>
