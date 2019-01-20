@@ -713,7 +713,7 @@
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Cheesecake de Maracuyá</h3>
+									<h3>Cheesecake de Coco y Pi&ntilde;a Sin Az&uacute;car</h3>
 									<ul class="list-inline categories nomargin">
 										<!--<li><a href="#">Photography</a></li>
 										<li><a href="#">Design</a></li>-->
@@ -751,10 +751,10 @@
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Street Photography</h3>
+									<h3>Cheesecake de snickers</h3>
 									<ul class="list-inline categories nomargin">
-										<li><a href="#">Photography</a></li>
-										<li><a href="#">Design</a></li>
+										<!--<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>-->
 									</ul>
 								</div><!-- /overlay title -->
 
@@ -789,10 +789,10 @@
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Street Photography</h3>
+									<h3>Cheesecake de Nutella</h3>
 									<ul class="list-inline categories nomargin">
-										<li><a href="#">Photography</a></li>
-										<li><a href="#">Design</a></li>
+										<!--<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>-->
 									</ul>
 								</div><!-- /overlay title -->
 
@@ -863,10 +863,10 @@
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Street Photography</h3>
+									<h3>Cheesecake de maracuy%aacute;</h3>
 									<ul class="list-inline categories nomargin">
-										<li><a href="#">Photography</a></li>
-										<li><a href="#">Design</a></li>
+										<!--<li><a href="#">Photography</a></li>
+										<li><a href="#">Design</a></li>-->
 									</ul>
 								</div><!-- /overlay title -->
 
