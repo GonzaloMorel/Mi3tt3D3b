@@ -1103,16 +1103,17 @@
 									Note: remove class="rounded" from the img for squared image!
 								-->
 								<ul class="row clearfix testimonial-dotted list-unstyled">
-									<li class="col-md-6">
+									<li class="col-md-6 col-sm-6">
 										<div class="testimonial">
 											<figure class="pull-left">
-												<img class="rounded" src="assets/images/demo/people/300x300/2-min.jpg" alt="">
+												<img class="rounded" src="assets\images\miette\clientes\almazan.png" alt="">
 											</figure>
 											<div class="testimonial-content">
-												<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
 												<cite>
-													Joana Doe
-													<span>Company Ltd.</span>
+													Almazan
+													<span>José Manuel Cousiño 1835, Santiago, Chile</span>
+													<span>www.almazangourmet.cl</span>
 												</cite>
 											</div>
 										</div>
@@ -1120,17 +1121,245 @@
 									<li class="col-md-6 col-sm-6">
 										<div class="testimonial">
 											<figure class="pull-left">
-												<img class="rounded" src="assets/images/demo/people/300x300/6-min.jpg" alt="">
+												<img class="rounded" src="assets\images\miette\clientes\beniciomercadonatural.png" alt="">
 											</figure>
 											<div class="testimonial-content">
-												<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
 												<cite>
-													Melissa Doe
-													<span>Company Ltd.</span>
+													Benicio Mercado Natural
+													<span>Avenida Cristobal Colón 5063, Santiago, Chile</span>
+													<span>www.benicio.cl</span>
 												</cite>
 											</div>
 										</div>
 									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\bricafeboutique.png" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Bri Café Boutique
+													<span>Avenida Macul 2363, Santiago, Chile</span>
+													<!--<span>www.almazangourmet.cl</span>-->
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\cafe2d6.png" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Café 2D6
+													<span>Santa Beatriz 203, Providencia, Santiago, Chile</span>
+													<span>www.cafe2d6.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\cafecarino.jpeg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Café Cariño
+													<span>Antonio Varas 384, local 104, Providencia, Santiago, Chile</span>
+													<span>www.cafecarino.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\cafetrestoques.jpeg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Café Tres Toques
+													<span>Avenida Nueva Tajamar 445, Las Condes, Santiago, Chile</span>
+													<span>www.trestoques.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\cococafe.jpeg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Có Café
+													<span>Holanda 1128, Providencia, Santiago, Chile</span>
+													<span>www.cococafe.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\emporiolaclara.jpeg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Emporio La Clara
+													<span>Dr. Pedro Lautaro Ferrer 3086, Providencia, Santiago, Chile</span>
+													<!--<span>www.almazangourmet.cl</span>-->
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\kumeitikafe.jpeg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													K&uuml;mei Ti Kafe
+													<span>Concha y Toro 25, Santiago, Chile</span>
+													<!--<span>www.almazangourmet.cl</span>-->
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\lanacionalgranel.jpeg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													La Nacional - Granel Selecto
+													<span>Galvarino Gallardo 1522, Providencia, Santiago, Chile</span>
+													<span>www.almazangourmet.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\mercadopatache.png" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Mercado Patache
+													<span>El Rodeo 13350, Lo Barnechea, Santiago, Chile</span>
+													<span>www.mercadopatache.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\milkcoffeebar.jpeg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Milk Coffee Bar
+													<span>El Bosque Norte 220, Las Condes, Santiago, Chile</span>
+													<!--<span>www.almazangourmet.cl</span>-->
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\moviendomasas.png" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Moviendo Masas
+													<span>Irarrazabal 4651, &Ntilde;u&ntilde;, Santiago, Chile</span>
+													<span>www.moviendomasas.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\querertecafeteria.jpeg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Quererte Cafetería
+													<span>Cristobal Colón 6560, Local 10, Las Condes, Santiago, Chile</span>
+													<!--span>www.almazangourmet.cl</span>-->
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\suplicy.png" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Suplicy - Café de Especialidad
+													<span>Alonso de Cordoba 5320, Local 2A, Las Condes, Santiago, Chile</span>
+													<span>www.suplicy.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\themarketplace.png" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													The Marquet
+													<span>Francisco de Aguirre 3570, Vitacura, Santiago, Chile</span>
+													<span>www.themarketchile.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6">
+										<div class="testimonial">
+											<figure class="pull-left">
+												<img class="rounded" src="assets\images\miette\clientes\vasmadelivery.jpeg" alt="">
+											</figure>
+											<div class="testimonial-content">
+												<!--<p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam!</p>-->
+												<cite>
+													Vasma Delivery
+													<!--<span>José Manuel Cousiño 1835, Santiago, Chile</span>-->
+													<span>www.vasma.cl</span>
+												</cite>
+											</div>
+										</div>
+									</li>
+
+
 								</ul>
 							</div>
 				</div>
