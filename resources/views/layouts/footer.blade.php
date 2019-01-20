@@ -72,7 +72,7 @@
 					<!--<h3 class="letter-spacing-1">KEEP IN TOUCH</h3>-->
 
 					<!-- Newsletter Form -->
-					<!--<p>Subscribe to Our Newsletter to get Important News & Offers</p>
+					<p>Para contactarnos envíanos un email a: <span class="texto_cafe">contacto@miette.cl</span></p><!--
 
 					<form class="validate" action="php/newsletter.php" method="post" data-success="Subscribed! Thank you!" data-toastr-position="bottom-right">
 						<div class="input-group">
