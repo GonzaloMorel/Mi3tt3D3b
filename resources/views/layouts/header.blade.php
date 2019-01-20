@@ -64,7 +64,7 @@
 						<!-- /BUTTONS -->
 
 						<!-- Logo -->
-						<a class="logo pull-left" href="index.html">
+						<a class="logo pull-left" href="#">
 							<img src="assets/images/miette/logo_web.png" alt="" />
 						</a>
 
