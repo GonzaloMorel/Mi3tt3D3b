@@ -586,7 +586,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5523.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/1200x800/_NIK5523.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -608,7 +608,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="FotosMiette2018/_NIK5523.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/1200x800/_NIK5523.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -624,7 +624,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5615.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/1200x800/_NIK5615.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -646,7 +646,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="FotosMiette2018/_NIK5615.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/1200x800/_NIK5615.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -662,7 +662,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5656.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/1200x800/_NIK5656.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -684,7 +684,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="FotosMiette2018/_NIK5656.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/1200x800/_NIK5656.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -700,7 +700,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5715.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/1200x800/_NIK5715.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -722,7 +722,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="FotosMiette2018/_NIK5715.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/1200x800/_NIK5715.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -738,7 +738,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5744.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/1200x800/_NIK5744.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -760,7 +760,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="FotosMiette2018/_NIK5744.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/1200x800/_NIK5744.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -776,7 +776,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5784.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/1200x800/_NIK5784.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -797,7 +797,7 @@
 								</div><!-- /overlay title -->
 
 							</span>
-							<img class="img-responsive" src="FotosMiette2018/_NIK5784.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/1200x800/_NIK5784.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -813,7 +813,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5817.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/1200x800/_NIK5817.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -835,7 +835,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="FotosMiette2018/_NIK5817.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/1200x800/_NIK5817.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
@@ -850,7 +850,7 @@
 								<span class="inner">
 
 									<!-- lightbox -->
-									<a class="ico-rounded lightbox" href="FotosMiette2018/_NIK5825.jpg" data-plugin-options='{"type":"image"}'>
+									<a class="ico-rounded lightbox" href="FotosMiette2018/1200x800/_NIK5825.jpg" data-plugin-options='{"type":"image"}'>
 										<span class="fa fa-plus size-20"></span>
 									</a>
 
@@ -872,7 +872,7 @@
 
 							</span>
 
-							<img class="img-responsive" src="FotosMiette2018/_NIK5825.jpg" width="600" height="399" alt="">
+							<img class="img-responsive" src="FotosMiette2018/1200x800/_NIK5825.jpg" width="600" height="399" alt="">
 						</figure>
 					</div>
 
