@@ -91,8 +91,10 @@
 	       {{--  @yield('contacto_mayorista')--}}
 			</div>
 
+			<div id="clientes">
 	        {{--@yield('clientes')--}}
 			@yield('testimonial')
+			</div>
 
 	        <br/><br/>
 
