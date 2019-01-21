@@ -743,9 +743,9 @@
 									</a>
 
 									<!-- details -->
-									<a class="ico-rounded" href="portfolio-single-slider.html">
+									<!--<a class="ico-rounded" href="portfolio-single-slider.html">
 										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
-									</a>
+									</a>-->
 
 								</span>
 
@@ -781,9 +781,9 @@
 									</a>
 
 									<!-- details -->
-									<a class="ico-rounded" href="portfolio-single-slider.html">
+									<!--<a class="ico-rounded" href="portfolio-single-slider.html">
 										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
-									</a>
+									</a>-->
 
 								</span>
 
@@ -855,9 +855,9 @@
 									</a>
 
 									<!-- details -->
-									<a class="ico-rounded" href="portfolio-single-slider.html">
+									<!--<a class="ico-rounded" href="portfolio-single-slider.html">
 										<span class="glyphicon glyphicon-option-horizontal size-20"></span>
-									</a>
+									</a>-->
 
 								</span>
 
