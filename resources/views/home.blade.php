@@ -863,7 +863,7 @@
 
 								<!-- overlay title -->
 								<div class="item-box-overlay-title">
-									<h3>Cheesecake de maracuy%aacute;</h3>
+									<h3>Cheesecake de maracuy&aacute;</h3>
 									<ul class="list-inline categories nomargin">
 										<!--<li><a href="#">Photography</a></li>
 										<li><a href="#">Design</a></li>-->
