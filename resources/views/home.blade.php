@@ -152,10 +152,10 @@
 						<!-- /SLIDE 1 -->
 
 						<!-- SLIDE 3 -->
-						<div class="swiper-slide" style="background-image: url('{{ asset('assets/images/miette/original/mc-32.jpg') }}');">
-							<div class="overlay dark-6"><!-- dark overlay [1 to 9 opacity] --></div>
+						<!--<div class="swiper-slide" style="background-image: url('{{ asset('assets/images/miette/original/mc-32.jpg') }}');">
+							<div class="overlay dark-6">--><!-- dark overlay [1 to 9 opacity] --><!--</div>-->
 
-							<div class="display-table">
+							<!--<div class="display-table">
 								<div class="display-table-cell vertical-align-middle">
 									<div class="container">
 
@@ -163,17 +163,17 @@
 											<div class="text-center col-md-8 col-xs-12 col-md-offset-2">
 
 												<h1 class="font-raleway wow fadeInUp menta_miette_letra open_sans" data-wow-delay="0.4s">MADE WITH L<i class="et-heart corazon"></i>VE</h1>
-												<p class="lead font-lato weight-300 wow fadeInUp" data-wow-delay="0.6s">Se trata de Miette, un salón de té ubicado a pasos de Escuela Militar que recientemente abrió sus puertas al público para ofrecer una exquisita repostería artesanal.... </p>
+												<p class="lead font-lato weight-300 wow fadeInUp" data-wow-delay="0.6s">Se trata de Miette, un salón de té ubicado a pasos de Escuela Militar que recientemente abrió sus puertas al público para ofrecer una exquisita repostería artesanal.... </p>-->
 												<!--<a class="btn btn-default btn-lg wow fadeIn" data-wow-delay="1.5s" href="#">PURCHASE NOW</a>-->
 
-											</div>
+											<!--</div>
 										</div>
 
 									</div>
 								</div>
 							</div>
 
-						</div>
+						</div>-->
 						<!-- /SLIDE 3 -->
 
 
